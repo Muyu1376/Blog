@@ -70,3 +70,62 @@ aside:
 哪个英文字母最酷？ {% hideInline 因为西装裤(C装酷),查看答案,#FF7242,#fff %}
 
 门里站着一个人? {% hideInline 闪 %}
+
+{% tabs test1 %}
+<!-- tab -->
+**This is Tab 1.**
+<!-- endtab -->
+
+<!-- tab -->
+**This is Tab 2.**
+<!-- endtab -->
+
+<!-- tab -->
+**This is Tab 3.**
+<!-- endtab -->
+{% endtabs %}
+
+{% btn [url],[text],[icon],[color] [style] [layout] [position] [size] %}
+
+[url]         : 链接
+[text]        : 按钮文字
+[icon]        : [可选] 图标
+[color]       : [可选] 按钮背景顔色(默认style时）
+                      按钮字体和边框顔色(outline时)
+                      default/blue/pink/red/purple/orange/green
+[style]       : [可选] 按钮样式 默认实心
+                      outline/留空
+[layout]      : [可选] 按钮佈局 默认为line
+                      block/留空
+[position]    : [可选] 按钮位置 前提是设置了layout为block 默认为左边
+                      center/right/留空
+[size]        : [可选] 按钮大小
+                      larger/留空
+
+This is my website, click the button {% btn 'https://butterfly.js.org/',Butterfly %}
+This is my website, click the button {% btn 'https://butterfly.js.org/',Butterfly,far fa-hand-point-right %}
+This is my website, click the button {% btn 'https://butterfly.js.org/',Butterfly,,outline %}
+This is my website, click the button {% btn 'https://butterfly.js.org/',Butterfly,far fa-hand-point-right,outline %}
+This is my website, click the button {% btn 'https://butterfly.js.org/',Butterfly,far fa-hand-point-right,larger %}
+
+
+你看我长得漂亮不
+
+![](https://i.loli.net/2021/03/19/2P6ivUGsdaEXSFI.png)
+
+我觉得很漂亮 {% inlineImg https://i.loli.net/2021/03/19/5M4jUB3ynq7ePgw.png 150px %}
+
+你看我长得漂亮不
+
+![](https://i.loli.net/2021/03/19/2P6ivUGsdaEXSFI.png)
+
+我觉得很漂亮 {% inlineImg https://i.loli.net/2021/03/19/5M4jUB3ynq7ePgw.png 150px %}
+
+{% timeline title,color %}
+<!-- timeline title -->
+xxxxx
+<!-- endtimeline -->
+<!-- timeline title -->
+xxxxx
+<!-- endtimeline -->
+{% endtimeline %}

@@ -5,6 +5,9 @@ abbrlink: 4f24eca6
 date: 2022-07-11 14:12:04
 categories: Verilog
 sticky: 1
+top_img: /img/p4.jpg
+cover: /img/p4.jpg
+background: /img/p4.jpg
 ---
 @[TOC](目录)
 
