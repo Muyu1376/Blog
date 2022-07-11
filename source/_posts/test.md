@@ -56,3 +56,17 @@ aside:
 {% galleryGroup '漫威' '关于漫威的图片' '/Gallery/marvel' https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg %}
 {% galleryGroup 'OH MY GIRL' '关于OH MY GIRL的图片' '/Gallery/ohmygirl' https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg %}
 </div>
+{% gallery %}
+![](https://i.loli.net/2019/12/25/Fze9jchtnyJXMHN.jpg)
+![](https://i.loli.net/2019/12/25/ryLVePaqkYm4TEK.jpg)
+![](https://i.loli.net/2019/12/25/gEy5Zc1Ai6VuO4N.jpg)
+![](https://i.loli.net/2019/12/25/d6QHbytlSYO4FBG.jpg)
+![](https://i.loli.net/2019/12/25/6nepIJ1xTgufatZ.jpg)
+![](https://i.loli.net/2019/12/25/E7Jvr4eIPwUNmzq.jpg)
+![](https://i.loli.net/2019/12/25/mh19anwBSWIkGlH.jpg)
+![](https://i.loli.net/2019/12/25/2tu9JC8ewpBFagv.jpg)
+{% endgallery %}
+
+哪个英文字母最酷？ {% hideInline 因为西装裤(C装酷),查看答案,#FF7242,#fff %}
+
+门里站着一个人? {% hideInline 闪 %}
