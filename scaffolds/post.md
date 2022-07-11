@@ -1,6 +1,7 @@
 ---
-title:
-date:
+title: {{title}}
+date: {{date}}
+abbrlink: {{abbrlink}}
 updated:
 tags:
 categories:

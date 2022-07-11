@@ -4,6 +4,7 @@ tags: 网站
 abbrlink: 4f24eca6
 date: 2022-07-11 14:12:04
 categories: Verilog
+sticky: 1
 ---
 @[TOC](目录)
 
@@ -62,3 +63,4 @@ assign a=b?c:d;
 //等价于if else语句，但是if else只能在always块中使用
 //三目运算符可以在assign中使用，不需要单独声明寄存器变量
 ~~~
+这次的知识就这些
