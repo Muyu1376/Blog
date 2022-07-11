@@ -46,7 +46,7 @@ copy:
 #   icon: link || the description
 social:
   fab fa-github: https://github.com/Muyu1376 || Github
-  fas fa-envelope: space.astronomy1376@gmail.com || Email
+  fas fa-envelope: mailto:space.astronomy1376@gmail.com || Email
   fa-brands fa-weixin: s18265379625 || WeChat
 
 # search (搜索)
@@ -92,7 +92,7 @@ favicon: /img/favicon.png
 # Avatar (頭像)
 avatar:
   img: https://w.wallhaven.cc/full/y8/wallhaven-y8622k.jpg
-  effect: true
+  effect: false
 
 # Disable all banner image
 disable_top_img: false
