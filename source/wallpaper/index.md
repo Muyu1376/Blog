@@ -3,7 +3,7 @@ title: wallpaper
 date: 2022-07-11 23:46:37
 abbrlink:
 updated:
-type:
+type: wallpaper
 comments:
 description:
 keywords:
