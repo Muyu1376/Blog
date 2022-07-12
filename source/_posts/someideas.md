@@ -9,7 +9,6 @@ top_img: /img/p4.jpg
 cover: /img/p4.jpg
 background: /img/p4.jpg
 ---
-@[TOC](目录)
 
 # Verilog学习笔记1，记录要点
 

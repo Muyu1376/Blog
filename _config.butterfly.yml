@@ -101,7 +101,7 @@ disable_top_img: false
 index_img:
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: /img/bg3.png
+default_top_img: /img/bg4.png
 
 # The banner image of archive page
 archive_img:
@@ -217,7 +217,7 @@ post_edit:
   enable: true
   # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  url: https://github.com/Muyu1376/Blog/tree/main/source
+  url: https://github.com/Muyu1376/Blog/tree/main/source/
 
 # Related Articles
 related_post:
@@ -510,7 +510,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(/img/bg3.png)
+background: url(/img/bg4.png)
 
 # Footer Background
 footer_bg: /img/bg2.png
