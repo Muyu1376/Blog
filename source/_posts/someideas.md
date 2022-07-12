@@ -5,7 +5,6 @@ abbrlink: 4f24eca6
 date: 2022-07-11 14:12:04
 categories: Verilog
 ---
-@[TOC](目录)
 
 # Verilog学习笔记1，记录要点
 
