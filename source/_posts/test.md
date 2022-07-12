@@ -12,7 +12,7 @@ date:
 updated:
 top_img: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wHfW?ver=298f
 comments:
-cover: https://w.wallhaven.cc/full/wq/wallhaven-wqve97.png
+cover: /img/p4.jpg
 toc:
 toc_number:
 toc_style_simple:
@@ -57,14 +57,20 @@ aside:
 {% galleryGroup 'OH MY GIRL' '关于OH MY GIRL的图片' '/Gallery/ohmygirl' https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg %}
 </div>
 {% gallery %}
-![](https://i.loli.net/2019/12/25/Fze9jchtnyJXMHN.jpg)
+<!-- ![](https://i.loli.net/2019/12/25/Fze9jchtnyJXMHN.jpg)
 ![](https://i.loli.net/2019/12/25/ryLVePaqkYm4TEK.jpg)
 ![](https://i.loli.net/2019/12/25/gEy5Zc1Ai6VuO4N.jpg)
 ![](https://i.loli.net/2019/12/25/d6QHbytlSYO4FBG.jpg)
 ![](https://i.loli.net/2019/12/25/6nepIJ1xTgufatZ.jpg)
 ![](https://i.loli.net/2019/12/25/E7Jvr4eIPwUNmzq.jpg)
 ![](https://i.loli.net/2019/12/25/mh19anwBSWIkGlH.jpg)
-![](https://i.loli.net/2019/12/25/2tu9JC8ewpBFagv.jpg)
+![](https://i.loli.net/2019/12/25/2tu9JC8ewpBFagv.jpg) -->
+![](https://pic.quanjing.com/01/pi/QJ6445944272.jpg@!794ws)
+![](https://i0.hdslb.com/bfs/new_dyn/81ed03fdedeb7d59feb303f4ef3d9c5b401742377.jpg)
+![](https://i0.hdslb.com/bfs/new_dyn/81ed03fdedeb7d59feb303f4ef3d9c5b401742377.jpg@1554w.webp)
+![](https://i0.hdslb.com/bfs/album/86a723085ae1c32d683742a81b39dfe2a1e0d3a6.png)
+![](https://i0.hdslb.com/bfs/album/2e1141d9b9ed150a547d7a6118073afde6b8bc2f.jpg)
+![](https://i0.hdslb.com/bfs/album/b8a1ec4b06921e183faaaa968a363d70dc201a59.png)
 {% endgallery %}
 
 哪个英文字母最酷？ {% hideInline 因为西装裤(C装酷),查看答案,#FF7242,#fff %}
