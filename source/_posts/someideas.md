@@ -1,6 +1,9 @@
 ---
-title: someideas
-tags: 网站
+title: Verilog学习笔记1
+tags: 
+    - 编程
+    - 代码学习
+    - Verilog
 abbrlink: 4f24eca6
 date: 2022-07-11 14:12:04
 categories: Verilog
