@@ -7,7 +7,7 @@ type: "wallpaper"
 comments:
 description:
 keywords:
-
+top_img: /img/p4.jpg
 mathjax:
 katex:
 aside:
