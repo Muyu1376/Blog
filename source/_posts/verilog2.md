@@ -1,11 +1,11 @@
 ---
-title: verilog 学习笔记2 异步复位串联T触发器
+title: Verilog 学习笔记2 异步复位串联T触发器
 abbrlink: d44bf58c
 tags:
-  - verilog
+  - Verilog
   - 编程
   - 代码学习
-categories: verilog
+categories: Verilog
 cover: 'https://i0.hdslb.com/bfs/new_dyn/919903f868baafdb6585829c90f2ba7e401742377.png'
 date: 2022-07-17 22:31:26
 updated:
