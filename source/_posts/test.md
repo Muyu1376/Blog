@@ -135,3 +135,7 @@ xxxxx
 xxxxx
 <!-- endtimeline -->
 {% endtimeline %}
+
+<embed width='700' height='650' fullscreen='yes' src='http://www.u.arizona.edu/~compitel/marston.pdf'></embed>
+
+{% pdf http://www.u.arizona.edu/~compitel/marston.pdf %} 
